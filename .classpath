@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java/lang"/>
+	<classpathentry kind="src" path="src/java/net"/>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="src" path="src/guice"/>
+	<classpathentry kind="src" path="src/json/json-lib"/>
+	<classpathentry kind="src" path="src/dom4j"/>
+	<classpathentry kind="src" path="src/mybatis/java"/>
+	<classpathentry kind="src" path="src/mybatis/test"/>
+	<classpathentry kind="src" path="src/java/util"/>
+	<classpathentry kind="src" path="src/xml"/>
+	<classpathentry kind="src" path="src/guava"/>
+	<classpathentry kind="src" path="src/java/security"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Libs/lib/guava/guava-12.0.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/cglib/cglib-nodep-3.0.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/json/json-lib-2.4-jdk15.jar" sourcepath="/Libs/src/json/json-lib-2.4-jdk15-sources.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/jakarta-commons/commons-lang-2.5.jar" sourcepath="/Libs/lib/jakarta-commons/commons-lang-2.5-sources.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/xom/xom-1.2.8.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/jakarta-commons/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/ezmorph/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/jakarta-commons/commons-collections.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/jakarta-commons/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/dom4j/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/dom4j/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/guice/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/jetty-lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/spring/org.springframework.beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/spring/org.springframework.context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/spring/org.springframework.transaction-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/mybatis/mybatis-spring-1.0.1.jar" sourcepath="/Libs/lib/mybatis/mybatis-spring-1.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/spring/org.springframework.core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/mybatis/mybatis-3.1.1.jar" sourcepath="/Libs/lib/mybatis/mybatis-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/bonecp/bonecp-0.7.1.RELEASE.jar" sourcepath="/Libs/lib/bonecp/bonecp-0.7.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/slf4j/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/slf4j/slf4j-log4j12-1.5.0.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/log4j/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/jdbc/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="/Libs/lib/stripes/stripes-1.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
